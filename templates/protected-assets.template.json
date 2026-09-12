@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "assets": [
+    {
+      "id": "PA-001",
+      "type": "URL_OR_JOURNEY",
+      "url_or_journey": null,
+      "value_evidence_ids": [],
+      "value_period": null,
+      "owner": null,
+      "current_implementation": null,
+      "permitted_changes": [],
+      "prohibited_changes_without_approval": [],
+      "approved_redirect_destination": null,
+      "regression_tests": [],
+      "monitoring": [],
+      "rollback": null,
+      "claim_status": "UNKNOWN"
+    }
+  ]
+}

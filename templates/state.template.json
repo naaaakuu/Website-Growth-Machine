@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "updated_at": null,
+  "mode": "DISCOVER",
+  "phase": "frame",
+  "status": "ACTIVE",
+  "project_root": null,
+  "deployment_state": "UNKNOWN",
+  "evidence_freshness": "UNKNOWN",
+  "completed_gates": [],
+  "invalidated_gates": [],
+  "current_bottleneck": null,
+  "open_blockers": [],
+  "next_safe_action": null,
+  "handoff_owner": null,
+  "concurrency_note": "Do not overwrite another agent's active evidence or decision record; create dated records and update this index deliberately."
+}

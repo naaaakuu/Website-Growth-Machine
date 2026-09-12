@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "opportunities": [
+    {
+      "id": "OPP-001",
+      "customer_job": null,
+      "audience": null,
+      "market_language": null,
+      "demand_signal": {
+        "value": null,
+        "claim_status": "UNKNOWN",
+        "evidence_ids": []
+      },
+      "intent": null,
+      "proposed_experience": null,
+      "business_fit": null,
+      "distinct_value": null,
+      "competitive_obstacle": null,
+      "distribution_path": null,
+      "maintenance_cost": null,
+      "scores": {
+        "business_value": null,
+        "reach": null,
+        "diagnosis_confidence": null,
+        "intervention_confidence": null,
+        "strategic_compounding": null,
+        "reversibility": null,
+        "effort": null,
+        "risk": null,
+        "maintenance": null,
+        "time_to_learning": null
+      },
+      "score_reasoning": null,
+      "decision": "UNKNOWN",
+      "unknowns": []
+    }
+  ]
+}

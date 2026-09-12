@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "primary_outcome_node": {
+    "name": null,
+    "event": null,
+    "system_of_record": null,
+    "deduplication_key": null
+  },
+  "nodes": [
+    {
+      "id": "eligible_visit",
+      "stage": "acquisition",
+      "name": "Eligible visit",
+      "event_or_measure": null,
+      "denominator": null,
+      "source_system": null,
+      "privacy_or_consent_constraints": [],
+      "validation_method": null,
+      "claim_status": "UNKNOWN"
+    }
+  ],
+  "edges": [
+    {
+      "from": "eligible_visit",
+      "to": null,
+      "mechanism_hypothesis": null
+    }
+  ],
+  "known_gaps": []
+}

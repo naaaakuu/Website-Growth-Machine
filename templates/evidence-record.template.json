@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "EV-001",
+  "claim_status": "UNKNOWN",
+  "gate_status": "NOT_TESTED",
+  "criterion": null,
+  "scope": {
+    "urls_or_journeys": [],
+    "templates": [],
+    "device": null,
+    "locale": null,
+    "authentication_state": null
+  },
+  "environment": null,
+  "build_or_commit": null,
+  "tool": null,
+  "tool_version": null,
+  "configuration": {},
+  "collected_at": null,
+  "raw_evidence_paths": [],
+  "observation": null,
+  "limitations": [],
+  "blocker": null,
+  "reviewer": null,
+  "approval_reference": null,
+  "fresh_until_or_trigger": null
+}

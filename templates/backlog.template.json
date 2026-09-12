@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "id": "ACT-001",
+      "title": null,
+      "severity": "MEDIUM",
+      "business_impact": null,
+      "observation": null,
+      "root_cause_hypothesis": null,
+      "claim_status": "HYPOTHESIS",
+      "expected_observable_change": null,
+      "priority_reasoning": null,
+      "effort": null,
+      "risk": null,
+      "reversibility": null,
+      "maintenance_burden": null,
+      "time_to_learning": null,
+      "owner": null,
+      "approval_required": false,
+      "acceptance_test": null,
+      "rollback": null,
+      "status": "PROPOSED",
+      "evidence_ids": []
+    }
+  ]
+}

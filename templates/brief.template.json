@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "site_url": null,
+  "topic": null,
+  "business_name": null,
+  "mode": "DISCOVER",
+  "audience": null,
+  "markets": [],
+  "languages": [],
+  "offer": null,
+  "eligibility_or_constraints": [],
+  "primary_outcome": {
+    "name": null,
+    "event": null,
+    "denominator": null,
+    "window": null,
+    "system_of_record": null
+  },
+  "guardrails": [],
+  "baseline": {
+    "claim_status": "UNKNOWN",
+    "value": null,
+    "period": null,
+    "source_evidence_ids": []
+  },
+  "original_assets": [],
+  "related_owned_domains": [],
+  "claims_review": {
+    "required": "UNKNOWN",
+    "reviewer": null,
+    "scope": null
+  },
+  "capabilities": {},
+  "authority_tier": "READ_ONLY",
+  "authorized_actions": [],
+  "approval_required_for": [
+    "production deployment",
+    "destructive or irreversible changes",
+    "mass redirects or production indexing changes",
+    "DNS/domain/account changes",
+    "spending or external outreach",
+    "real submissions, bookings, payments, or messages",
+    "sensitive or regulated claims"
+  ],
+  "assumptions": [],
+  "unknowns": []
+}

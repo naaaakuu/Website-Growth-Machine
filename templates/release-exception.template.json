@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "EXC-001",
+  "gate": null,
+  "scope": null,
+  "status": "PROPOSED",
+  "reason": null,
+  "risk": null,
+  "compensating_controls": [],
+  "evidence_ids": [],
+  "approver": null,
+  "approved_at": null,
+  "expires_or_retest_at": null,
+  "release_blocked_without_exception": true,
+  "owner": null
+}

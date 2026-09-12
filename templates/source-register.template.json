@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "SRC-001",
+      "publisher": null,
+      "title": null,
+      "url_or_approved_export": null,
+      "accessed_at": null,
+      "source_type": "PRIMARY_OR_UNKNOWN",
+      "claim_or_rule_supported": null,
+      "scope_and_version": null,
+      "affected_modules_or_tests": [],
+      "limitations": [],
+      "refresh_trigger": null,
+      "owner": null
+    }
+  ]
+}

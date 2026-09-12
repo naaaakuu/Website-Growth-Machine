@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "LRN-001",
+  "date": null,
+  "context": null,
+  "change_or_experiment_id": null,
+  "hypothesis": null,
+  "evidence_ids": [],
+  "outcome": {
+    "claim_status": "UNKNOWN",
+    "summary": null,
+    "uncertainty": null
+  },
+  "decision": null,
+  "generalizable": "UNKNOWN",
+  "proposed_system_update": null,
+  "owner": null
+}

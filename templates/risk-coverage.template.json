@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "coverage_units": [
+    {
+      "id": "COV-001",
+      "template_or_route": null,
+      "journey": null,
+      "device_or_viewport": null,
+      "locale": null,
+      "authentication_state": null,
+      "risk": "MEDIUM",
+      "required_checks": [],
+      "evidence_ids": [],
+      "gate_status": "NOT_TESTED",
+      "reason_for_scope": null
+    }
+  ]
+}

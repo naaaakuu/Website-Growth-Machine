@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "status": "DRAFT",
+  "policy_name": "Project-specific lab performance policy",
+  "approved_by": null,
+  "approved_at": null,
+  "required_cases": [],
+  "min_runs": null,
+  "score_rules": {},
+  "metric_rules": {},
+  "allow_extra_cases": true,
+  "comparability_requirements": [
+    "same production-like build or commit",
+    "same URL/template and device group",
+    "same runner, network, cache, consent, and authentication conditions where applicable",
+    "retain all comparable raw reports"
+  ],
+  "notes": "Fill with approved route/device cases and project-specific thresholds before evaluating saved Lighthouse reports. This is not a ranking or release guarantee."
+}

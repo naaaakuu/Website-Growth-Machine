@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "primary_objective": {
+    "id": "OBJ-001",
+    "name": null,
+    "definition": null,
+    "denominator": null,
+    "system_of_record": null,
+    "observation_window": null,
+    "claim_status": "UNKNOWN"
+  },
+  "secondary_metrics": [],
+  "guardrails": [
+    {
+      "name": null,
+      "definition": null,
+      "threshold_or_direction": null,
+      "system_of_record": null,
+      "claim_status": "UNKNOWN"
+    }
+  ],
+  "out_of_scope_metrics": [],
+  "approved_by": null,
+  "approved_at": null
+}

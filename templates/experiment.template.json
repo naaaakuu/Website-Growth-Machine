@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "EXP-001",
+  "status": "DRAFT",
+  "observation": null,
+  "observation_evidence_ids": [],
+  "hypothesis": null,
+  "mechanism": null,
+  "eligibility": null,
+  "assignment_unit": null,
+  "control": null,
+  "treatment": null,
+  "primary_metric": {
+    "name": null,
+    "denominator": null,
+    "system_of_record": null
+  },
+  "guardrails": [],
+  "minimum_meaningful_effect": null,
+  "sample_size_method": null,
+  "planned_duration_or_exposure": null,
+  "stopping_rule": null,
+  "analysis_method": null,
+  "exclusions": [],
+  "data_quality_checks": [
+    "assignment integrity",
+    "exposure logging",
+    "sample ratio",
+    "duplicate identity",
+    "instrumentation change",
+    "concurrent marketing change"
+  ],
+  "risk_and_rollback": null,
+  "owner": null,
+  "result": {
+    "claim_status": "UNKNOWN",
+    "effect": null,
+    "uncertainty": null,
+    "quality_checks": [],
+    "guardrail_outcomes": []
+  },
+  "decision": null
+}

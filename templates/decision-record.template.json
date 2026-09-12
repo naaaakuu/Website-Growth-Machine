@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "DEC-001",
+  "date": null,
+  "decision": null,
+  "decision_status": "PROPOSED",
+  "context": null,
+  "options_considered": [],
+  "chosen_option": null,
+  "evidence_ids": [],
+  "contrary_evidence": [],
+  "assumptions": [],
+  "unknowns": [],
+  "priority_reasoning": null,
+  "expected_mechanism": null,
+  "owner": null,
+  "approval_reference": null,
+  "reassessment_trigger": null,
+  "rollback_or_reversal": null
+}

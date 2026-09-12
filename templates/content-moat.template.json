@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "MOAT-001",
+  "asset_type": null,
+  "customer_job": null,
+  "proposed_asset": null,
+  "why_it_deserves_to_exist": null,
+  "source_or_data_provenance": null,
+  "methodology": null,
+  "inputs": [],
+  "outputs": [],
+  "assumptions_and_limitations": [],
+  "required_review": [],
+  "scores": {
+    "usefulness": null,
+    "uniqueness": null,
+    "credibility": null,
+    "commercial_connection": null,
+    "citation_or_distribution_potential": null,
+    "cost": null,
+    "maintainability": null,
+    "defensibility": null
+  },
+  "maintenance_owner": null,
+  "update_trigger": null,
+  "measurement_plan": null,
+  "decision": "UNKNOWN",
+  "evidence_ids": []
+}
